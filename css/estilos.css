@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://66.media.tumblr.com/57243d1c06c713e4b3ea90459cbc5c88/tumblr_nm4pwxSBZI1tf8vylo1_1280.png);
+    background-size: auto 200vh;
+    font-family: Didot;
+    height: 100vh;
+      
+}
+   
+   a{
+     color:grey;
+     text-decoration: none; 
+   }
+   
+   a:hover{
+     text-decoration:underline 
+   }
+   
+   .menu li{
+     list-style:none; 
+   }
+   
+   .menu ul{
+     display: flex; 
+     justify-content: space-around;
+   }
+   
+   .site-title{
+     color:whitesmoke;
+     text-align:center;
+   }
+   
+   .site-subtitle{
+     color:whitesmoke; 
+     text-align:center;
+   }
